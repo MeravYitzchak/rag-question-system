@@ -1,0 +1,10 @@
+Document: Remote Work Guidelines
+
+As of 2024, employees are allowed to work remotely up to two days per week, with manager approval.
+
+When working from home:
+- Employees must connect to the company VPN
+- Participation in all Zoom meetings is mandatory; availability on Slack is expected during work hours
+- Work hours must be logged in the Timely system
+
+Failure to comply may affect continued eligibility for remote work.

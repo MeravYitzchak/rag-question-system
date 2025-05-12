@@ -1,0 +1,27 @@
+[
+  {
+    "document": "MeetingSummary",
+    "chunk_id": "MeetingSummary_chunk_1",
+    "text": "Document: Engineering Sync – May 2, 2025 Attendees: Adi, Alon, Ifat, Nir Main topics: - Version 1.3 planning: Decision made to add support for Apple Pay in the ordering system. - Critical bugs: Fixed crash issue in Android app when duplicate orders were made. - Tasks for next week: - Adi: Investigate Apple Pay API integration - Nir: Perform system tests on iOS - Ifat: Write automated test coverage - Deployment update: Version 1.2 release postponed to May 6 Next meeting: Sunday, May 9."
+  },
+  {
+    "document": "NewEmployeeOnboardingGuide",
+    "chunk_id": "NewEmployeeOnboardingGuide_chunk_1",
+    "text": "Document: Onboarding Guide Welcome to the team! The initial onboarding process includes: 1. Introduction day with HR and training on internal tools (Slack, Jira, Notion). 2. One-on-one meeting with your team lead to align on goals and your 30-day plan. 3. Completion of legal forms and mandatory security awareness training (due within the first week). 4. Setup of internal systems: VPN, company email, GitHub access. For any questions, please contact Noa from the HR team."
+  },
+  {
+    "document": "RemoteWorkGuidelines",
+    "chunk_id": "RemoteWorkGuidelines_chunk_1",
+    "text": "Document: Remote Work Guidelines As of 2024, employees are allowed to work remotely up to two days per week, with manager approval. When working from home: - Employees must connect to the company VPN - Participation in all Zoom meetings is mandatory; availability on Slack is expected during work hours - Work hours must be logged in the Timely system Failure to comply may affect continued eligibility for remote work."
+  },
+  {
+    "document": "Security",
+    "chunk_id": "Security_chunk_1",
+    "text": "Document: IT Security Policy – McTech Israel To protect the confidentiality, integrity, and availability of company data, all employees are required to follow the following IT security practices: Use strong, unique passwords for all company accounts and change them regularly. Ensure that all devices are encrypted and password-protected when accessing company data remotely. Do not share sensitive information via email or unsecured channels. Report any suspicious emails, phishing attempts, or other security threats immediately to the IT department. Adhere to company guidelines when accessing and storing customer or employee personal data. Failure to comply with IT security policies may lead to disciplinary actions, including termination of employment."
+  },
+  {
+    "document": "VacationPolicy",
+    "chunk_id": "VacationPolicy_chunk_1",
+    "text": "Document: Vacation Policy Every full-time employee is entitled to 18 paid vacation days per year, accrued monthly. Vacation can only be used after completing a 3-month probation period. Unused vacation days roll over to the next calendar year but expire after 18 months if not used. Employees must submit vacation requests at least 7 business days in advance via the HR Online system. Approval is required from the direct manager. Extended vacations (over 10 consecutive days) require additional approval from the HR department."
+  }
+]

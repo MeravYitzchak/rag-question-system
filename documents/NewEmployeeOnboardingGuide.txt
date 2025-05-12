@@ -1,0 +1,10 @@
+Document: Onboarding Guide
+
+Welcome to the team! The initial onboarding process includes:
+
+1. Introduction day with HR and training on internal tools (Slack, Jira, Notion).
+2. One-on-one meeting with your team lead to align on goals and your 30-day plan.
+3. Completion of legal forms and mandatory security awareness training (due within the first week).
+4. Setup of internal systems: VPN, company email, GitHub access.
+
+For any questions, please contact Noa from the HR team.

@@ -1,0 +1,15 @@
+Document: IT Security Policy – McTech Israel
+
+To protect the confidentiality, integrity, and availability of company data, all employees are required to follow the following IT security practices:
+
+Use strong, unique passwords for all company accounts and change them regularly.
+
+Ensure that all devices are encrypted and password-protected when accessing company data remotely.
+
+Do not share sensitive information via email or unsecured channels.
+
+Report any suspicious emails, phishing attempts, or other security threats immediately to the IT department.
+
+Adhere to company guidelines when accessing and storing customer or employee personal data.
+
+Failure to comply with IT security policies may lead to disciplinary actions, including termination of employment.
