@@ -23,17 +23,17 @@ This project enables:
 
 
 rag-qa-system/
-│
-├── documents/                # Input .txt files
-├── processed_documents.json  # Chunked and cleaned output
-├── embeddings.pkl            # Saved embeddings and metadata
-├── faiss_index.bin           # Vector store
-├── preprocessing.py          # Step 1: Clean and chunk docs
-├── build_embeddings.py       # Step 2: Generate sentence embeddings
-├── build_faiss_index.py      # Step 3: Build FAISS index from embeddings
-├── query_retriever.py        # Step 4: Retrieve and answer questions
-├── ARCHITECTURE.md           # System design overview
-└── README.md                 # This file
+- │
+- ├── documents/                # Input .txt files
+- ├── processed_documents.json  # Chunked and cleaned output
+- ├── embeddings.pkl            # Saved embeddings and metadata
+- ├── faiss_index.bin           # Vector store
+- ├── preprocessing.py          # Step 1: Clean and chunk docs
+- ├── build_embeddings.py       # Step 2: Generate sentence embeddings
+- ├── build_faiss_index.py      # Step 3: Build FAISS index from embeddings
+- ├── query_retriever.py        # Step 4: Retrieve and answer questions
+- ├── ARCHITECTURE.md           # System design overview
+- └── README.md                 # This file
 
 ### 1. Clone the Repository
 bash
