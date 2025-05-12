@@ -13,13 +13,13 @@ This project enables:
 - Question answering using a Hugging Face QA model
 
 ## Setup
-pip install sentence-transformers
-pip install faiss-cpu
-pip install llama-cpp-python
-pip install tf-keras
-pip install torch
-pip install transformers
-CMD -> huggingface-cli download TheBloke/Mistral-7B-Instruct-v0.1-GGUF mistral-7b-instruct-v0.1.Q4_K_M.gguf --local-dir . --local-dir-use-symlinks False
+- pip install sentence-transformers
+- pip install faiss-cpu
+- pip install llama-cpp-python
+- pip install tf-keras
+- pip install torch
+- pip install transformers
+- CMD -> huggingface-cli download TheBloke/Mistral-7B-Instruct-v0.1-GGUF mistral-7b-instruct-v0.1.Q4_K_M.gguf --local-dir . --local-dir-use-symlinks False
 
 
 rag-qa-system/
